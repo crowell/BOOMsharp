@@ -352,6 +352,7 @@ namespace boomsharp
                         board.saveClippy(board);
                     }
                 }
+                board.saveClippy(board);
 
             }
 

@@ -3,3 +3,5 @@ C:\Users\jeff\Dropbox\booms\booms\bin\Debug\booms.exe
 C:\Users\jeff\Dropbox\booms\booms\bin\Debug\booms.pdb
 C:\Users\jeff\Dropbox\booms\booms\obj\x86\Debug\booms.exe
 C:\Users\jeff\Dropbox\booms\booms\obj\x86\Debug\booms.pdb
+C:\Users\jeff\Desktop\BOOMsharp\booms\obj\x86\Debug\booms.exe
+C:\Users\jeff\Desktop\BOOMsharp\booms\obj\x86\Debug\booms.pdb
