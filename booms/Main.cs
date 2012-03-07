@@ -263,6 +263,7 @@ namespace boomsharp
                         {
                             board.savedItems.Remove(aList);
                             System.Console.WriteLine("Boom! Deleted all your " + aList + ".");
+                            board.saveClippy(board);
                         }
                     }
                 }
@@ -349,9 +350,10 @@ namespace boomsharp
                         }
                         board.savedItems[aList].Add(aName,str);
                         System.Console.WriteLine("Boom! \"" + aName + "\" in \"" + aList + "\" is \"" + str + "\". Got it.");
-                        board.saveClippy(board);
+                        
                     }
                 }
+                board.saveClippy(board);
 
             }
 
